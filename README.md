@@ -58,7 +58,11 @@ This annotated image highlights essential internal components of a Lenovo ThinkP
 
 To safely remove the RAM stick, gently press outward on the two metal latches on each side of the module. The RAM will pop up at an angle, allowing you to slide it out carefully without touching the gold contacts. Always ground yourself before handling internal components to avoid static discharge.
 
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/abb8571e-60cc-4238-9c93-30c0ed804445" />
 
+### Detailed Analysis of Installed RAM Module – 8GB DDR3L SO-DIMM
+
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/3fde20ba-ebd5-4d18-9389-776dc885d422" />
 
 
 
