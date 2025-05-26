@@ -94,7 +94,9 @@ Begin by locating and removing the small Phillips-head screws securing the stora
 
 > 💡 Avoid touching the gold pins on the drive or inside the connector. Keep it clean and aligned for reinstallation.
 
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/4d6a7b70-cc16-4c28-98d2-ea37d02e7a40" />
 
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/70616df4-7c88-4dde-8bd8-65ed570d72a3" />
 
 
 
