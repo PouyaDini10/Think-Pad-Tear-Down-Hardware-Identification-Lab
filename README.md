@@ -52,7 +52,11 @@ Below is a labeled image showing the screw positions on the underside of the Len
 
 This annotated image highlights essential internal components of a Lenovo ThinkPad, including the CPU, RAM, storage drive, ports, and cooling system. It serves as a quick reference for understanding laptop hardware layout and supporting IT repair or diagnostic tasks.
 
+### 3. **Identify Hardware Components**
 
+### 🔧 RAM Removal Procedure
+
+To safely remove the RAM stick, gently press outward on the two metal latches on each side of the module. The RAM will pop up at an angle, allowing you to slide it out carefully without touching the gold contacts. Always ground yourself before handling internal components to avoid static discharge.
 
 
 
