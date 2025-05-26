@@ -30,9 +30,33 @@ This lab focuses on safely disassembling a Lenovo ThinkPad laptop to identify an
 - Shut down the system and disconnect all cables
 - Remove battery (if detachable)
 
+
 ### 2. **Disassembly**
 
 - Remove screws from the bottom panel
 - Gently pry open the casing using a plastic spudger or your fingers
 - Document each step with photos or notes
+
+
+Below is a labeled image showing the screw positions on the underside of the Lenovo ThinkPad (Windows 8 Pro model). Use this as a guide for safe and organized disassembly during your hardware tear-down lab.
+
+![ThinkPad Screw Diagram](./CamScanner_05-26-2025_12.58_1.jpeg)
+
+> ⚠️ **Tip:** Keep track of screw sizes and positions during removal. Use labeled containers or draw a diagram on paper to avoid mixing them up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
