@@ -45,6 +45,13 @@ Below is a labeled image showing the screw positions on the underside of the Len
 > ⚠️ **Tip:** Keep track of screw sizes and positions during removal. Use labeled containers or draw a diagram on paper to avoid mixing them up.
 
 
+### Internal Component Identification – ThinkPad Teardown
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/de784b1a-6408-4bdd-962c-77c2e31670d3" />
+
+
+This annotated image highlights essential internal components of a Lenovo ThinkPad, including the CPU, RAM, storage drive, ports, and cooling system. It serves as a quick reference for understanding laptop hardware layout and supporting IT repair or diagnostic tasks.
+
 
 
 
