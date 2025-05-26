@@ -84,7 +84,13 @@ Begin by locating and removing the small Phillips-head screws securing the stora
 
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/470100c6-7e4c-4161-8255-167d7d587ba8" />
 
+### **🔌 Step 2: Disconnect the SATA Cable**
 
+**Carefully disconnect the SATA combo cable from the storage drive.** This connector supplies both data and power to the 2.5" SATA drive. Gently pull the connector straight out from the drive, avoiding any side-to-side wiggling that could damage the pins.
+
+**Hold the plastic housing of the cable—not the wires—when removing it.** If the cable is attached to a flex adapter or bracket, detach it as a unit according to the layout of your laptop.
+
+> 💡 Avoid touching the gold pins on the drive or inside the connector. Keep it clean and aligned for reinstallation.
 
 
 
