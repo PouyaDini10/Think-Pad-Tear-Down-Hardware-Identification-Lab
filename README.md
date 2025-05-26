@@ -64,6 +64,40 @@ To safely remove the RAM stick, gently press outward on the two metal latches on
 
 <img width="628" alt="image" src="https://github.com/user-attachments/assets/3fde20ba-ebd5-4d18-9389-776dc885d422" />
 
+| Spec            | Details                         |
+|-----------------|----------------------------------|
+| **Brand**       | Micron                          |
+| **Type**        | DDR3L SO-DIMM                   |
+| **Speed**       | 1600 MHz (PC3L-12800)           |
+| **Form Factor** | Laptop (SO-DIMM - 204-pin)      |
+| **Voltage**     | 1.35V (Low Voltage)             |
+
+> 💡 Ideal for lightweight laptops and energy-efficient systems. Compatible with most DDR3L-enabled ThinkPads.
+
+## 💽 Storage Component
+
+This section documents the storage hardware found in the disassembled Lenovo ThinkPad.
+
+### Step 1: Remove Mounting Screws
+
+Begin by locating and removing the small Phillips-head screws securing the storage drive bracket to the laptop chassis.** These screws are typically found on each side of the bracket and may require a precision screwdriver.
+
+Once removed, the bracket and drive can be gently lifted out as a single unit for further disassembly or inspection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
