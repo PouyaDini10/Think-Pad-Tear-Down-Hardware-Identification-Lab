@@ -90,6 +90,8 @@ Begin by locating and removing the small Phillips-head screws securing the stora
 
 **Hold the plastic housing of the cable—not the wires—when removing it.** If the cable is attached to a flex adapter or bracket, detach it as a unit according to the layout of your laptop.
 
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/925662c3-a605-4144-bf84-ed21586f4aa1" />
+
 > 💡 Avoid touching the gold pins on the drive or inside the connector. Keep it clean and aligned for reinstallation.
 
 
