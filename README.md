@@ -82,7 +82,8 @@ This section documents the storage hardware found in the disassembled Lenovo Thi
 
 Begin by locating and removing the small Phillips-head screws securing the storage drive bracket to the laptop chassis.** These screws are typically found on each side of the bracket and may require a precision screwdriver.
 
-Once removed, the bracket and drive can be gently lifted out as a single unit for further disassembly or inspection.
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/470100c6-7e4c-4161-8255-167d7d587ba8" />
+
 
 
 
