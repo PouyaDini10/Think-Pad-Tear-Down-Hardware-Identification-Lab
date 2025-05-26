@@ -1,8 +1,11 @@
 # Think-Pad-Tear-Down-Hardware-Identification-Lab
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8936aa1-6fc3-4ab4-81d5-f25857f3ed2f" alt="ThinkPad Teardown" width="500"/>
+</p>
 
 This lab focuses on safely disassembling a Lenovo ThinkPad laptop to identify and understand the internal hardware components. It simulates real-world IT support tasks and helps build foundational hardware skills essential for IT technician roles.
+
 
 
 ## 🛠️ Objective
